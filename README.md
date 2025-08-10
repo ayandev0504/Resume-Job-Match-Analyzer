@@ -29,7 +29,7 @@ resume-job-match-analyzer/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/resume-job-match-analyzer.git
+git clone https://github.com/ayandev0504/Resume-Job-Match-Analyzer/tree/main
 cd resume-job-match-analyzer
 2️⃣ Create Virtual Environment
 bash
